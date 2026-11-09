@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="climate1_earths_climate_system_v1" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="org_climate1">
+    <organization identifier="org_climate1">
+      <title>Climate I: Earth&#8217;s Climate System</title>
+      <item identifier="item_climate1" identifierref="res_climate1" isvisible="true">
+        <title>Climate I: Earth&#8217;s Climate System</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="res_climate1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="img/angle.jpg"/>
+      <file href="img/biomes.jpg"/>
+      <file href="img/carbon.jpg"/>
+      <file href="img/circ3d.jpg"/>
+      <file href="img/earth.jpg"/>
+      <file href="img/eccentric.jpg"/>
+      <file href="img/ghouse.jpg"/>
+      <file href="img/ghouse2.jpg"/>
+      <file href="img/hadley.jpg"/>
+      <file href="img/koppen.jpg"/>
+      <file href="img/milank.jpg"/>
+      <file href="img/milank2.jpg"/>
+      <file href="img/obliq.jpg"/>
+      <file href="img/precess.jpg"/>
+      <file href="img/productivity.jpg"/>
+      <file href="img/seasons.jpg"/>
+      <file href="img/spheres.jpg"/>
+      <file href="img/tempgraph.jpg"/>
+      <file href="img/thermohaline.jpg"/>
+      <file href="img/zones.jpg"/>
+    </resource>
+  </resources>
+</manifest>
